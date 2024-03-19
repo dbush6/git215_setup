@@ -1,3 +1,3 @@
 # git215_setup
 ## Author: Darren Bush
-theme: jekyll-theme-minimal
+remote_theme: minimal
