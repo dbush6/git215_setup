@@ -1,3 +1,3 @@
 # git215_setup
 ## Author: Darren Bush
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
